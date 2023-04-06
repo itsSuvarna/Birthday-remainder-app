@@ -1,0 +1,52 @@
+.main{
+    height:80vh;
+    width: 60vw;
+    background: #701bc5;
+    margin-left: 20vw;
+    
+}
+h2{
+    color: rgb(132, 220, 126);
+    font-family: cursive;
+    margin-top: 10vh;
+    font-weight: 900;
+}
+.box2{
+    height:23vh;
+    width: 40vw;
+    margin-top: 10vh;
+    margin-left: 10vw;
+
+}
+.name{
+    height: 9vh;
+    width: 30vw;
+    margin-top: 5vh;
+    background: #57b1b9;
+    transition: width 2s,height 2s, transform 2s;
+    animation: App-logo-spin infinite 1s linear;
+}
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(10deg);
+    }
+  }
+  
+  
+  
+.mini{
+    margin-top: 50vh;
+    height: 8vh;
+    width: 30vw;
+    background: #4c8e9e;
+
+}
+.home{
+    margin-top: 20vh;
+    height: 4vh;
+    width: 15vw;
+    margin-left: 20vw;
+}
